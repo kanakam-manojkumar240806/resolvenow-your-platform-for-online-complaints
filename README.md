@@ -4,11 +4,11 @@
 
 This repository includes everything related to the **ResolveNow: Your Platform for Online Complaints**
 
-| 🧩 Resource      | 📝 Description                            | 🔗 Link / Location                      |
-|------------------|-------------------------------------------|-----------------------------------------|
-| 💻 Source Code   | Complete frontend and backend implementation | [View Code](./Project Files)         |
-| 📕 Documentation | Detailed project report with system description | [View PDF](./Document) |
-| 🎬 Demo Video    | Walkthrough of the project's working features | [Watch Video](./Video Demo) |
+| 🧩 Resource      | 📝 Description                            |
+|------------------|-------------------------------------------|
+| 💻 Source Code   | Complete frontend and backend implementation |
+| 📕 Documentation | Detailed project report with system description |
+| 🎬 Demo Video    | Walkthrough of the project's working features |
 
 ---
 
