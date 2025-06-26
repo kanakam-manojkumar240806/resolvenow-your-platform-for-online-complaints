@@ -1,1 +1,1 @@
-project executable files
+This directory holds the complete project files(frontned+backend)
