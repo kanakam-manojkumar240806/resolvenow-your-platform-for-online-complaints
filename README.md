@@ -1,17 +1,24 @@
 # resolvenow-your-platform-for-online-complaints
 
-##📦 Project Resources
+# 📦 Project Resources
 
-This repository includes everything related to the ResolveNow: Your Platform for Online Complaints
+This repository includes everything related to the **ResolveNow: Your Platform for Online Complaints**
 
-🧩 Resource	📝 Description	🔗 Link / Location
-💻 Source Code	Complete frontend and backend implementation	View Code
-📕 Documentation	Detailed project report with system description	view PDF
-🎬 Demo Video	Walkthrough of the project's working features	Watch Video
-##📝 How to Use This Repository
+| 🧩 Resource      | 📝 Description                            | 🔗 Link / Location                      |
+|------------------|-------------------------------------------|-----------------------------------------|
+| 💻 Source Code   | Complete frontend and backend implementation | [View Code](./Project FIles)         |
+| 📕 Documentation | Detailed project report with system description | [View PDF](./Document) |
+| 🎬 Demo Video    | Walkthrough of the project's working features | [Watch Video](./Video Demo) |
+
+---
+
+## 📝 How to Use This Repository
 
 --Browse the project files/ folder to explore the source code.
 
 --Read the PDF in the document/ folder to understand system design and flow.
 
 --Watch the video demo to see the project in action.
+
+---
+
